@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Gaurav Software Solutions. Muzaffarpur, Bihar </h1>
-<h1 align="center"> Gaurav Software Solutions- Very Good Training center for DevOps with AWS in Muzaffarpur, Bihar India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Ankita Software Solutions. Muzaffarpur, Bihar </h1>
+<h1 align="center"> Ankita Software Solutions- Very Good Training center for DevOps with AWS in Muzaffarpur, Bihar India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Gaurav Technologies, 
+		Ankita Technologies, 
 		Shahpur, Above ICICI Bank, Beside Meghana Foods,
 		Bihar,
 		+91-8051592455
